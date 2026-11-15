@@ -1,0 +1,24 @@
+# Compiled Object files and Binaries
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+
+# Intermediate Simulation / Output Data
+*.csv
+*.data
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
