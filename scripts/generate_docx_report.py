@@ -146,7 +146,7 @@ print("Building docx document...")
 
 # Title Section
 add_title("HIGH PERFORMANCE COMPUTING PROJECT REPORT")
-add_subtitle("Parallelization and Performance Evaluation of the Mandelbrot Algorithm and Computational Kernels using OpenMP, MPI, and CUDA\nGroup: Group_01 | Academic Year: 2026-2027")
+add_subtitle("Parallelization and Performance Evaluation of the Mandelbrot Algorithm and Computational Kernels using OpenMP, MPI, and CUDA\nGroup: Group_04 (Group 4) | Academic Year: 2026-2027")
 
 # Executive Summary
 add_h1("Executive Summary")

@@ -1,6 +1,6 @@
 # High Performance Computing Project Report: Comprehensive Parallelization of the Mandelbrot Algorithm and Computational Kernels using OpenMP, MPI, and CUDA
 
-**Group Number:** Group_01  
+**Group Number:** Group_04 (Group 4)  
 **Project Title:** Parallelization and Performance Evaluation of the Mandelbrot Algorithm and Scientific Computational Kernels across Shared-Memory, Distributed-Memory, Hybrid, and Many-Core GPU Architectures  
 **Course:** High Performance Computing (HPC)  
 **Date:** November 2026  

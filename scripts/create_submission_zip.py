@@ -1,7 +1,7 @@
 import os
 import zipfile
 
-zip_filename = "Group_01.zip"
+zip_filename = "Group_04.zip"
 
 include_dirs = [
     "Assignments",

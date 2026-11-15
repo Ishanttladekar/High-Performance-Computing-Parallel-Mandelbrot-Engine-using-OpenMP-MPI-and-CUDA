@@ -1,6 +1,6 @@
 # High Performance Computing: Parallelization of the Mandelbrot Algorithm and Computational Kernels using OpenMP, MPI, and CUDA
 
-**Group Number:** Group_01 *(Replace with your assigned Group Number if different)*  
+**Group Number:** Group_04 (Group 4)  
 **Course:** High Performance Computing (HPC)  
 **Academic Year:** 2026-2027  
 **Submission Package:** Source Code, Documentation, Execution Instructions, Output Benchmarks, Screenshots, and Comprehensive Project Report.
